@@ -1,0 +1,30 @@
+{
+  "name": "modern-js-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Farmer/modern-js-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-Farmer/modern-js-tools/issues"
+  },
+  "homepage": "https://github.com/T-Farmer/modern-js-tools#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "node-sass": "^4.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "mocha": "^3.2.0",
+    "node-sass": "^4.4.0"
+  }
+}
